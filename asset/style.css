@@ -9,6 +9,7 @@
 html {
 	background: linear-gradient(180deg, #141e30, 5%, #141e30, 50%, #651FFF);
 	background-attachment: fixed;
+        color: #000000;
 }
 html::after {
 	content: " ";
