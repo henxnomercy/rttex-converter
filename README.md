@@ -1,2 +1,2 @@
 # rthenx
-Web for rttex file converter
+Rttex file converter based web, open source
